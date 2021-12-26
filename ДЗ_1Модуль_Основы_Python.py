@@ -94,6 +94,9 @@ elif figure == 'Прямоугольник':
     rectangle_width = float(input('Введите ширину прямоугольника: '))
     rectangle_width = round(float(rectangle_length * rectangle_width), 2)
     print('Площадь прямоугольника: ', rectangle_width)
+
+#Проверка связи с GitHub
+print('Hello world!')
     
         
 
